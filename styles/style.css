@@ -40,6 +40,10 @@
   z-index:2;
   font-weight: normal;
 }
+.header__link{
+  text-decoration: none;
+  color: #2f80ed;
+}
 .header__main-illustration{
   position: absolute;
   height: 608px;
