@@ -1,0 +1,6 @@
+.cards__line-two{
+    width:920px;
+    display: flex;
+    flex-direction: row;
+    padding:0;
+  }
